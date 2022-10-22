@@ -1,18 +1,18 @@
 ﻿Column,Name,Unit,Full name,Description
 A,sample_no,-,Sample ID,
-C,date,-,Sampling date,
-D,location,-,Sampling location.,"Format 000_XXX. 000 is the distance (m) along the transect. XXX (I, II and III) indicate replicates in the east west direction (distance from transect 0, 10 and 20 m respectively)"
-E,depth,cm,Sampling depth,0-5 cm or 5-15 cm
-G,swc,%water (fw),Gravimetric soil water content,SWC in % of fresh soil
-K,ctot,(%),Total soil C,From composite samples. Milled. analysed on EA IRMS
-L ,ntot,(%),Total soil N,From composite samples. Milled. analysed on EA IRMS
-,ptot,µg P g-1 dw soil,Total soil P,"Total P by acid digestion, analyzed with the molybdate blue method"
-Q,eoc,µg C g-1 dw soil,KCl extractable organic carbon,TOC determined in 1M KCl extracts (2 g in 20 ml solution) analysed by TOC/TN Analyzer. Shimadzu
-R,en,µg N g-1 dw soil,KCl extractable Nitrogen,TN determined in 1M KCl extracts (2 g in 20 ml solution) analysed by TOC/TN Analyzer. Shimadzu
-S,olsenp,µg P g-1 dw soil,NaHCO3 extractable P,Inorganic P determined in NaHCO3 extracts (0.5 M. pH 8.5. 2 g soil in 20 ml solution) - molybdate blue P determination
-U,cmic,µg C g-1 dw soil,Microbial C,difference between TOC determined in CHCl3 fumigated KCl extracts and non-treated KCl extracts (see above. TOC/TN Analyzer. Shimadzu)
-V,nmic,µg N g-1 dw soil,Microbial N,difference between TN determined in CHCl3 fumigated KCl extracts and non-treated KCl extracts (see above. TOC/TN Analyzer. Shimadzu)
-W,pmic,µg P g-1 dw soil,Microbial P,difference between P determined in CHCl3 fumigated bicarbone extracts and non-treated bicarbonate extracts (see above. 0.5 M. pH 8.5 - molybdate-blue method)
-AO,bg,nmol h-1 g-1 dw soil,β-Glucosidase activity,β-Glucosidase activity analyzed from fresh samples in flourimetric assy with 4-Methylumbelliferyl β-D-glucopyranoside
-AS,nag,nmol h-1 g-1 dw soil,N-acetyl-β-D-glucosaminidase activity,N-acetyl-β-D-glucosaminidase activity analyzed in fresh samples in fluorimetric assay 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide
-AN,phos,nmol h-1 g-1 dw soil,Phosphatase activity,Phosphatase activity analyzed from fresh samples in flourimetric assy with 4-Methylumbelliferyl phosphate salt
+B,date,-,Sampling date,
+C,location,-,Sampling location.,"Format 000_XXX. 000 is the distance (m) along the transect. XXX (I, II and III) indicate replicates in the east west direction (distance from transect 0, 10 and 20 m respectively)"
+D,depth,cm,Sampling depth,0-5 cm or 5-15 cm
+E,swc,%water (fw),Gravimetric soil water content,SWC in % of fresh soil
+F,ctot,(%),Total soil C,From composite samples. Milled. analysed on EA IRMS
+G ,ntot,(%),Total soil N,From composite samples. Milled. analysed on EA IRMS
+H,ptot,µg P g-1 dw soil,Total soil P,"Total P by acid digestion, analyzed with the molybdate blue method"
+I,eoc,µg C g-1 dw soil,KCl extractable organic carbon,TOC determined in 1M KCl extracts (2 g in 20 ml solution) analysed by TOC/TN Analyzer. Shimadzu
+J,en,µg N g-1 dw soil,KCl extractable Nitrogen,TN determined in 1M KCl extracts (2 g in 20 ml solution) analysed by TOC/TN Analyzer. Shimadzu
+K,olsenp,µg P g-1 dw soil,NaHCO3 extractable P,Inorganic P determined in NaHCO3 extracts (0.5 M. pH 8.5. 2 g soil in 20 ml solution) - molybdate blue P determination
+L,cmic,µg C g-1 dw soil,Microbial C,difference between TOC determined in CHCl3 fumigated KCl extracts and non-treated KCl extracts (see above. TOC/TN Analyzer. Shimadzu)
+M,nmic,µg N g-1 dw soil,Microbial N,difference between TN determined in CHCl3 fumigated KCl extracts and non-treated KCl extracts (see above. TOC/TN Analyzer. Shimadzu)
+N,pmic,µg P g-1 dw soil,Microbial P,difference between P determined in CHCl3 fumigated bicarbone extracts and non-treated bicarbonate extracts (see above. 0.5 M. pH 8.5 - molybdate-blue method)
+O,bg,nmol h-1 g-1 dw soil,β-Glucosidase activity,β-Glucosidase activity analyzed from fresh samples in flourimetric assy with 4-Methylumbelliferyl β-D-glucopyranoside
+P,nag,nmol h-1 g-1 dw soil,N-acetyl-β-D-glucosaminidase activity,N-acetyl-β-D-glucosaminidase activity analyzed in fresh samples in fluorimetric assay 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide
+Q,phos,nmol h-1 g-1 dw soil,Phosphatase activity,Phosphatase activity analyzed from fresh samples in flourimetric assy with 4-Methylumbelliferyl phosphate salt
