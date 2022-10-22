@@ -1,7 +1,7 @@
 # AmazonFACE_SoilData20162017
 AmazonFACE soil chemistry data, feb 2016 - jan 2017
 
-Karst J. Schaap (karstsch[a]gmail.com), Lucia Fuchslueger, Marcel R. Hoosbeek, Carlos Alberto Quesada, Florian Hofhansl, Oscar Valverde-Barrantes
+Karst J. Schaap (karstsch[a]gmail.com), Lucia Fuchslueger
 
 --
 
